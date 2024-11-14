@@ -1,8 +1,8 @@
-# PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24
-<h3>Someasvar R</h3>
-<h3>REGISTER NO:212221230103</h3>
+# PCA:EXP-5 MATRIX MULTIPLICATION USING CUDA AY-23-24
+<h3>Name: Someasvar R</h3>
+<h3>Register No:212221230103</h3>
 <h3>EX. NO-5</h3>
-<h3>DATE:22/10/2024</h3>
+<h3>Date:</h3>
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   Implement Matrix Multiplication using GPU.</h3>
 
